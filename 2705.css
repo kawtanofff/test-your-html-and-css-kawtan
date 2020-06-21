@@ -1,0 +1,9 @@
+/** This is a comment that the browser will ignore,
+* Put your CSS code into this file
+*/
+h1 {
+	color: #FF1493;  /** change font color */
+	background: #87CEEB; /** change background color */
+	font-family: cursive; /** change font-family */
+	text-align: center; /** align text in the center */
+}
